@@ -55,6 +55,4 @@ rbenv rehash
 
 ## Please PullRequest
 
-[github-flow](https://gist.github.com/Gab-km/3705015)でプルリクエスト送ってください。
-誰かが適当にマージします
-
+try fork and pullreq!!
